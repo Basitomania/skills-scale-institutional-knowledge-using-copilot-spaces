@@ -26,6 +26,12 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Collaboration & Handoffs
+- **With Product Managers**: Receives feature requirements and acceptance criteria; provides technical feasibility input and effort estimates
+- **With UX Designers**: Collaborates on implementation details and design trade-offs; provides feedback on technical constraints
+- **With QA Engineers**: Delivers code for testing; works together on bug fixes and testability improvements
+- **With DevOps Engineers**: Receives CI/CD infrastructure support; collaborates on deployment automation and monitoring
+
 ---
 
 ## Product Managers
@@ -48,6 +54,12 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Collaboration & Handoffs
+- **With Developers**: Provides feature requirements and acceptance criteria; receives technical feasibility input and delivery timelines
+- **With UX Designers**: Collaborates on user needs and design direction; validates that designs meet user and business goals
+- **With Data Analysts**: Defines success metrics and analytics requirements; uses data insights to inform prioritization decisions
+- **With Project Managers**: Aligns on roadmap timing and resource allocation; coordinates stakeholder communication
 
 ---
 
@@ -72,6 +84,12 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Weekly status updates and stakeholder reports
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
+
+### Collaboration & Handoffs
+- **With Product Managers**: Aligns on roadmap timing and resource allocation; facilitates prioritization and scope discussions
+- **With Release Manager**: Coordinates release schedules and milestone planning; ensures deployment timelines are realistic
+- **With All Team Members**: Facilitates meetings, removes blockers, and maintains transparency across the delivery team
+- **With Stakeholders**: Provides status updates and manages expectations; escalates risks and decisions as needed
 
 ---
 
