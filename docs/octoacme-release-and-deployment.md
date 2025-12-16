@@ -1,7 +1,7 @@
 # OctoAcme — Release & Deployment Guide
 
 ## Purpose
-Standardize how OctoAcme releases features to production to reduce risk and improve observability.
+Standardize how OctoAcme releases features to production to reduce risk and improve observability. The [Release Manager](octoacme-roles-and-personas.md#release-manager) coordinates the release process and ensures all quality gates are met.
 
 ## Release Types
 - Patch: hotfixes addressing critical production issues
@@ -10,10 +10,11 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 
 ## Pre-release requirements
 - All acceptance criteria met and PRs merged
-- Passing CI and security scans
-- Release notes drafted
-- Rollback / mitigation plan documented
-- Smoke tests prepared
+- Passing CI and security scans (verified by DevOps Engineer)
+- QA sign-off on testing completion (provided by QA Engineers)
+- Release notes drafted (by Release Manager with input from Product Manager)
+- Rollback / mitigation plan documented (by Release Manager and DevOps Engineer)
+- Smoke tests prepared and executed (by QA Engineers)
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
